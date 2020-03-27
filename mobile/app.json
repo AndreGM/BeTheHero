@@ -25,6 +25,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "br.com.appdev.bethehero",
+      "versionCode": 1
     }
   }
 }
